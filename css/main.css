@@ -1,0 +1,15 @@
+.main {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.main__header {
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    padding: 17px;
+    font-weight: bold;
+    background-color: #FFF;
+    margin: 10px auto 2px;
+    box-shadow: 0 0 5px rgba(114, 113, 113, 0.13);
+}

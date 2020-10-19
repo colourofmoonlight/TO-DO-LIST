@@ -1,0 +1,24 @@
+.list {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    padding: 30px 17px 10px;
+    background-color: #FFF; 
+    margin: 0 auto;
+    box-shadow: 0 0 5px rgba(114, 113, 113, 0.13);
+}
+
+.list__checkedButton {
+    width: 35px;
+    height: 35px; 
+    background-color: #1A7C1D;
+    border: #1A7C1D;
+    box-shadow: 0 0 2px rgb(182, 176, 176);   
+}
+
+.list__trashButton {
+    width: 35px;
+    height: 35px; 
+    background-color: #E72C3B;
+    border: #E72C3B;
+    box-shadow: 0 0 2px rgb(182, 176, 176); 
+}
